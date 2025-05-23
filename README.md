@@ -33,4 +33,4 @@ Each cloud hit gives **1 point** multiplied by the **score multiplier**.
 
 Bonus points are awarded for catching the ball at the end of a level.
 
-The fewer lives you've lost, the higher the last catch bonus.
+The fewer lives you've lost, the higher the catch bonus.
