@@ -1,4 +1,4 @@
-🎮 ##Game Description##:
+🎮 # Game Description:
 Cloud Breaker is a fresh and colorful twist on the classic brick breaker. Instead of bricks, you're smashing vibrant clouds in the sky using a bouncing basketball. Your paddle is a basketball hoop, and after breaking all clouds, you must catch the ball to finish the level — but don’t drop it!
 
 You can fully customize the challenge in the Settings:
