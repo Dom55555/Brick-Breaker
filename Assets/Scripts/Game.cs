@@ -49,6 +49,7 @@ public class Game : MonoBehaviour
             Paddle.instance.gameObject.GetComponent<SpriteRenderer>().enabled = false;
             catchBallText.gameObject.SetActive(true);
             catchScore = (int)Mathf.Round(25 * scoreMultiplier / (4 - Ball.instance.lives));
+            catchScore = (int)Mathf.Round(Random.Range(catchScore/2,catchScore));
             catchBallText.text = "CATCH THE BALL\n+" + catchScore + " SCORE";
         }
     }

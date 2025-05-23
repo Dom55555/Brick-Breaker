@@ -22,6 +22,7 @@ public class Ball : MonoBehaviour
     }
     public void StartGame()
     {
+        Paddle.instance.transform.position = new Vector2(0,-4.5f);
         transform.position = new Vector2(0,-3);
         rb.velocity = new Vector2(Random.Range(0, 0.6f), 1).normalized * speed;
     }
