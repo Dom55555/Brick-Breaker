@@ -11,25 +11,25 @@ Cloud Breaker is a fresh and colorful twist on the classic brick breaker. Instea
 
 - Chance of clouds spawning with higher levels (stronger colors)
 
-### The harder you make it, the bigger your score multiplier — skilled players are rewarded!
+### The harder you make it, the bigger your ***score multiplier*** — skilled players are rewarded!
 
-🕹 Mechanics:
+# 🕹 Mechanics:
 
-Use A and D to move the paddle left and right.
+Use **A** and **D** to move the paddle left and right.
 
 The ball bounces off surfaces and reflects off the paddle based on where it hits, allowing skilled control.
 
 Clouds come in 7 color levels, from red (weak) to purple (strong). Higher levels take more hits to destroy.
 
-Once all clouds are cleared, you must catch the ball to complete the level and earn bonus points.
+Once all clouds are cleared, you must **catch** the ball to complete the level and earn bonus points.
 
-You start with 3 lives. You lose a life if the ball falls off the screen.
+You start with **3** lives. You lose a life if the ball falls off the screen.
 
 The game ends when you run out of lives.
 
-🏆 Scoring System:
+# 🏆 Scoring System:
 
-Each cloud hit gives 1 point multiplied by the score multiplier.
+Each cloud hit gives **1 point** multiplied by the **score multiplier**.
 
 Bonus points are awarded for catching the ball at the end of a level.
 
